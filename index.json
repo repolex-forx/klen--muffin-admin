@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-admin",
+  "versions": [
+    {
+      "commit": "2b1f600d0874e4589319779c54f8b4754e396ad3",
+      "tag": "13.3.0",
+      "parsed_at": "2026-10-20T22:05:48.846657+00:00"
+    }
+  ]
+}
